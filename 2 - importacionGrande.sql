@@ -1,0 +1,1 @@
+\copy route_imported from 'recorridos-realizados-2016.csv' header delimiter ';' csv;
